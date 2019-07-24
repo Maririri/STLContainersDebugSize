@@ -1,0 +1,17 @@
+//
+// Created by Maria.Baburina on 10/22/2015.
+//
+
+#ifndef STLCONTAINERSDEBUGSIZE_HEADER_H
+#define STLCONTAINERSDEBUGSIZE_HEADER_H
+
+enum {
+    SIZE_8 = 8,
+    SIZE_64 = 64,
+    SIZE_1024 = 1024,
+    SIZE_2048 = 2048,
+    SIZE_65535 = 65535
+};
+
+
+#endif //STLCONTAINERSDEBUGSIZE_HEADER_H
